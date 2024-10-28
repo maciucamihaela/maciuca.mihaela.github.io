@@ -51,9 +51,13 @@ sau ## n.d.
 
 <i>text italic</i>
 
-<u>text taiat</u>
+<del>text taiat</del>
 
 <b>text boldat</b>
+
+<strong>text boldat special</strong>
+
+<em>text emphasized</em>
 
 ## Markdown 
 
@@ -63,8 +67,31 @@ _text italic2.1_
 
 **text boldat**
 
-text taiat
+~~text taiat~~
 
+
+# ~~text taiat~~
+
+<del>TAIAT</del>
+
+<s>TAIAT</s>
+
+
+# Tabele in markdown
+
+C1 |C2 |C3 |C4
+-|-|-|-
+CEL 1|CEL2| CEL3|CEL4
+
+# Sublinierea textului cu highlited
+
+## HTML
+
+<mark>conferinta</mark>
+
+## markdown 
+
+==highlight==    ??????
 
 
 
