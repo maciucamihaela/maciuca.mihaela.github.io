@@ -5,21 +5,21 @@
 
 [Homepage](index.md)
 
-# Inserarea ecuatiilor si formulelor 'MathJax'
+# Inserarea ecuatiilor si formulelor `MathJax`
 
 **Sintaxma:**
 
-Formule 'MathJax' sunt inserate in aceeasi linie daca sunt plasate intr-o pereche de simboluri '$'.
+Formule `MathJax` sunt inserate in aceeasi linie daca sunt plasate intr-o pereche de simboluri `$`.
 
 *Exemplu:* aceasta este o ecuatie $a=bc$
 
-Formule 'LaTex' (prin 'MathJax' ) se introduc pe rand nou intre doua parechi simbolul '$$'
+Formule `LaTex` (prin `MathJax` ) se introduc pe rand nou intre doua parechi simbolul `$$`
 
 *Exemplu:* 
 
 $$a=b^c$$
 
-# Ridicat la putere ('superscript')
+# Ridicat la putere (`superscript`)
 
 Se foloseste 
 
@@ -27,9 +27,9 @@ Se foloseste
 
 $$a=10^7$$
 
-# 'Subscript'
+# `Subscript`
 
-Se foloseste meta-caracterul 'LaTex' : '_'
+Se foloseste meta-caracterul `LaTex` : `_`
 
 *Exemplu:*
 
@@ -47,17 +47,17 @@ $$ 10^{10} $$
 
 * Exemplu:*
 
-'\alpha' - alpha litera mica ($\alpha$)
+`\alpha` - alpha litera mica ($\alpha$)
 
-'\Alpha' - alpha litera mare ($$\Alpha$$)
+`\Alpha` - alpha litera mare ($$\Alpha$$)
 
 # Paranteza
 
-- Parantezale rotumde se scriu direct (nu au inteles special 'LaTex')
+- Parantezale rotumde se scriu direct (nu au inteles special `LaTex`)
 
-- Parantezale patrate se scriu direct (nu au inteles special 'LaTex'
+- Parantezale patrate se scriu direct (nu au inteles special `LaTex`)
   
-- Acoladele, deoarece ele sunt metacaractele de grupe, vor fi renderizate corect daca sunt 'escapade' de intelesul lor special punand in fata lor 'metacaracterul' '\'
+- Acoladele, deoarece ele sunt metacaractele de grupe, vor fi renderizate corect daca sunt 'escapade' de intelesul lor special punand in fata lor `metacaracterul` `\`
 
 *Exemplu:*
 
@@ -72,7 +72,10 @@ $$a = (b+c)^{3x} - [3+6x]$$
   
 
   $$ a= \frac{(a+bc)}{(d-c)}$$
+
+
   # Semnele de multiplicare si respectiv de diviziune 
+  
   *Exemplu:*
 
   $$ a = c + 10 \times x $$
