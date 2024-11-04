@@ -30,6 +30,6 @@ A -.->|Tranzitie grea| C[\Anul IV/]
 
   ## Diagrama _flowcharte_ avansat
 
-  ```mermaid
+ ```mermaid
 A --> B & C & D --> E
-  ```
+ ```
