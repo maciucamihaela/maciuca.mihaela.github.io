@@ -4,3 +4,4 @@
 
 [Formuule cu Mathjax](formule_mathjax2.md)
 
+[Diagrame](diagrame)
